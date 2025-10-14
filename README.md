@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **🧠 AI-Driven Data Analysis for Scientific Research**
 
-- 🌱 I’m currently learning **📚 Cloud computing (AWS ☁️, GCP 🌍), Natural Language**
+- 🌱 I’m currently learning **📚 Cloud computing (AWS ☁️), AgenticAI, Natural Language Processing (NLP)**
 
 - 👯 I’m looking to collaborate on **💡 Tools for statistics & Machine Learning in Science**
 
