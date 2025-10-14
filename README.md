@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **🚀 Optimizing Deep Learning Models for Large Datasets**
 
-- 💬 Ask me about **⚙️ Python, Data Science, AI, and Scientific Computing**
+- 💬 Ask me about **⚙️ Python, Data Science, AI, and Scientific Computing and CERN Experiment (believe me its cool and magical)**
 
 - 📫 How to reach me **rshaheen.kth@gmail.com**
 
